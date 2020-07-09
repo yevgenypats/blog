@@ -1,4 +1,4 @@
-baseurl      = "yevgenypats.github.io"
+baseurl      = "https://yevgenypats.github.io/"
 title        = "My Blog"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
@@ -28,9 +28,8 @@ paginate     = 10
   defaultTheme = "dark"
 
 [taxonomies]
-    category = "blog"
+    category = "categories"
     tag      = "tags"
-    series   = "series"
 
 [languages]
   [languages.en]
